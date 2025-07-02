@@ -41,6 +41,7 @@ dependencies = [
     { name = "crewai" },
     { name = "crewai-tools" },
     { name = "duckduckgo-search" },
+    { name = "fastacp" },
     { name = "nest-asyncio" },
     { name = "ruff" },
     { name = "smolagents" },
@@ -52,6 +53,7 @@ requires-dist = [
     { name = "crewai", specifier = ">=0.134.0" },
     { name = "crewai-tools", specifier = ">=0.48.0" },
     { name = "duckduckgo-search", specifier = ">=8.0.5" },
+    { name = "fastacp", specifier = ">=0.0.0" },
     { name = "nest-asyncio", specifier = ">=1.6.0" },
     { name = "ruff", specifier = ">=0.12.1" },
     { name = "smolagents", specifier = ">=1.19.0" },
@@ -826,6 +828,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/91/50/a9d80c47ff289c611ff12e63f7c5d13942c65d68125160cefd768c73e6e4/executing-2.2.0.tar.gz", hash = "sha256:5d108c028108fe2551d1a7b2e8b713341e2cb4fc0aa7dcf966fa4327a5226755", size = 978693, upload-time = "2025-01-22T15:41:29.403Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/7b/8f/c4d9bafc34ad7ad5d8dc16dd1347ee0e507a52c3adb6bfa8887e1c6a26ba/executing-2.2.0-py2.py3-none-any.whl", hash = "sha256:11387150cad388d62750327a53d3339fad4888b39a6fe233c3afbb54ecffd3aa", size = 26702, upload-time = "2025-01-22T15:41:25.929Z" },
+]
+
+[[package]]
+name = "fastacp"
+version = "0.0.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/9b/64/12b1582b0e4e8992af28984277aac9efa40a279f81d49eca201f1e9cac77/fastacp-0.0.0.tar.gz", hash = "sha256:1e93e30ee4063b1550045b18f0393aa3c6c4ca6740ec07018a0b60f168ffc6e1", size = 1453, upload-time = "2025-04-30T12:56:41.835Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/67/fe/d2c0b58ee880b4b76ee08eef0b6169db34f449b560a0352b0b6fe9ca394d/fastacp-0.0.0-py3-none-any.whl", hash = "sha256:eda3df700991147dfed4fd25bc39bcf60e594f3d26e9b71f5891fe0fd9014546", size = 1524, upload-time = "2025-04-30T12:56:43.253Z" },
 ]
 
 [[package]]
