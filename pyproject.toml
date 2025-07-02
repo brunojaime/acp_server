@@ -8,6 +8,8 @@ dependencies = [
     "acp-sdk>=0.13.0",
     "crewai>=0.134.0",
     "crewai-tools>=0.48.0",
+    "duckduckgo-search>=8.0.5",
     "nest-asyncio>=1.6.0",
     "ruff>=0.12.1",
+    "smolagents>=1.19.0",
 ]
