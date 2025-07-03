@@ -10,6 +10,7 @@ dependencies = [
     "crewai-tools>=0.48.0",
     "duckduckgo-search>=8.0.5",
     "fastacp>=0.0.0",
+    "mcp-server>=0.1.4",
     "nest-asyncio>=1.6.0",
     "ruff>=0.12.1",
     "smolagents>=1.19.0",
