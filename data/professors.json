@@ -3,105 +3,105 @@
     "name": "Dr. Maria Thompson",
     "specialty": "Database Management Systems",
     "email": "mthompson@university.edu",
-    "office": "Room 210, Engineering Building",
-    "courses": ["Advanced SQL", "Database Architecture", "NoSQL Technologies"]
+    "state": "CA",
+    "courses": ["Advanced SQL", "NoSQL Technologies"]
   },
   "ENG002": {
-    "name": "Professor Alan Reid",
+    "name": "Prof. Alan Reid",
     "specialty": "Computer Networks",
     "email": "areid@university.edu",
-    "office": "Room 312, Engineering Building",
-    "courses": ["Network Protocols", "Wireless Communication", "Network Security"]
+    "state": "TX",
+    "courses": ["Network Protocols", "Network Security"]
   },
   "ENG003": {
     "name": "Dr. Sophie Delgado",
     "specialty": "Software Engineering",
     "email": "sdelgado@university.edu",
-    "office": "Room 128, Engineering Annex",
-    "courses": ["Software Design Patterns", "Agile Development", "Software Project Management"]
+    "state": "NY",
+    "courses": ["Software Design Patterns", "Agile Development", "DevOps Principles"]
   },
   "ENG004": {
-    "name": "Professor Thomas Becker",
+    "name": "Prof. Thomas Becker",
     "specialty": "Embedded Systems",
     "email": "tbecker@university.edu",
-    "office": "Room 405, Tech Lab Center",
-    "courses": ["Microcontrollers", "Real-Time Systems", "IoT Applications"]
+    "state": "IL",
+    "courses": ["Microcontrollers", "IoT Applications"]
   },
   "ENG005": {
     "name": "Dr. Li Wen",
     "specialty": "Systems Architecture",
     "email": "lwen@university.edu",
-    "office": "Room 103, Engineering Tower",
-    "courses": ["Computer Architecture", "Parallel Computing", "Hardware Design"]
+    "state": "WA",
+    "courses": ["Computer Architecture", "Hardware Design"]
   },
   "ENG006": {
-    "name": "Professor Emily Rhodes",
-    "specialty": "Cybersecurity",
-    "email": "erhodes@university.edu",
-    "office": "Room 219, Cyber Lab",
-    "courses": ["Cryptography", "Information Security", "Ethical Hacking"]
+    "name": "Prof. Emily Ross",
+    "specialty": "Human-Computer Interaction",
+    "email": "eross@university.edu",
+    "state": "MA",
+    "courses": ["UX Design", "Interactive Systems"]
   },
   "ENG007": {
-    "name": "Dr. Javier Morales",
+    "name": "Dr. James Patel",
     "specialty": "Cloud Computing",
-    "email": "jmorales@university.edu",
-    "office": "Room 314, Cloud Tech Wing",
-    "courses": ["Cloud Infrastructure", "AWS & Azure", "Distributed Systems"]
+    "email": "jpatel@university.edu",
+    "state": "CO",
+    "courses": ["Cloud Infrastructure", "Serverless Architecture"]
   },
   "ENG008": {
-    "name": "Professor Nina Gupta",
-    "specialty": "Artificial Intelligence",
-    "email": "ngupta@university.edu",
-    "office": "Room 420, AI Research Center",
-    "courses": ["Machine Learning", "AI for Engineers", "Neural Networks"]
+    "name": "Prof. Natalia Gómez",
+    "specialty": "Cybersecurity",
+    "email": "ngomez@university.edu",
+    "state": "FL",
+    "courses": ["Information Security", "Penetration Testing"]
   },
   "ENG009": {
-    "name": "Dr. Robert Chang",
-    "specialty": "Human-Computer Interaction",
-    "email": "rchang@university.edu",
-    "office": "Room 207, UX Lab",
-    "courses": ["User Experience Design", "UI Development", "Interaction Design"]
+    "name": "Dr. Omar Hussein",
+    "specialty": "Artificial Intelligence",
+    "email": "ohussein@university.edu",
+    "state": "PA",
+    "courses": ["Machine Learning", "AI for Engineers"]
   },
   "ENG010": {
-    "name": "Professor Hannah Kim",
-    "specialty": "Control Systems Engineering",
-    "email": "hkim@university.edu",
-    "office": "Room 308, Systems Lab",
-    "courses": ["Control Theory", "Modeling Dynamic Systems", "Feedback Systems"]
+    "name": "Prof. Rachel Kim",
+    "specialty": "Data Engineering",
+    "email": "rkim@university.edu",
+    "state": "GA",
+    "courses": ["ETL Pipelines", "Big Data Technologies"]
   },
   "ENG011": {
-    "name": "Dr. Michael Osei",
-    "specialty": "Operations Research",
-    "email": "mosei@university.edu",
-    "office": "Room 126, Analytics Dept",
-    "courses": ["Linear Programming", "Simulation", "Decision Analysis"]
+    "name": "Dr. Marcus Allen",
+    "specialty": "Control Systems",
+    "email": "mallen@university.edu",
+    "state": "OH",
+    "courses": ["Feedback Control", "Robust Control", "Modeling & Simulation"]
   },
   "ENG012": {
-    "name": "Professor Clara Rossi",
-    "specialty": "Big Data Analytics",
-    "email": "crossi@university.edu",
-    "office": "Room 503, Data Science Hub",
-    "courses": ["Big Data Technologies", "Data Mining", "Hadoop & Spark"]
+    "name": "Prof. Helen Yu",
+    "specialty": "Systems Integration",
+    "email": "hyu@university.edu",
+    "state": "MI",
+    "courses": ["System Design", "Process Integration"]
   },
   "ENG013": {
-    "name": "Dr. Ahmed Nasr",
-    "specialty": "DevOps and Automation",
-    "email": "anasr@university.edu",
-    "office": "Room 117, Software Lab",
-    "courses": ["CI/CD Pipelines", "Infrastructure as Code", "Docker & Kubernetes"]
+    "name": "Dr. David Moretti",
+    "specialty": "Industrial IoT",
+    "email": "dmoretti@university.edu",
+    "state": "AZ",
+    "courses": ["Smart Manufacturing", "Edge Computing"]
   },
   "ENG014": {
-    "name": "Professor Olivia Meyer",
-    "specialty": "Digital Signal Processing",
-    "email": "omeyer@university.edu",
-    "office": "Room 215, DSP Lab",
-    "courses": ["Signal Processing", "MATLAB Applications", "Digital Filters"]
+    "name": "Prof. Aisha Khan",
+    "specialty": "IT Project Management",
+    "email": "akhan@university.edu",
+    "state": "NC",
+    "courses": ["PM Fundamentals", "Risk Management"]
   },
   "ENG015": {
-    "name": "Dr. Brian Silva",
-    "specialty": "Systems Integration",
-    "email": "bsilva@university.edu",
-    "office": "Room 335, Systems Engineering Dept",
-    "courses": ["Integration Techniques", "Systems Engineering Practices", "Model-Based Systems Engineering"]
+    "name": "Dr. Gabriel Silva",
+    "specialty": "DevOps and CI/CD",
+    "email": "gsilva@university.edu",
+    "state": "NJ",
+    "courses": ["CI/CD Pipelines"]
   }
 }
